@@ -1,0 +1,12 @@
+
+item.tool_fireplace_poker.name=Fireplace Poker
+item.tool_fireplace_shovel.name=Fireplace Shovel
+item.tool_fireplace_tongs.name=Fireplace Tongs
+
+item.kindling_ash.name=Kindling Ash
+item.kindling_ember.name=Kindling Ember
+
+tile.andiron.name=Andiron
+tile.fireplace.name=Fireplace
+tile.kindling.name=Kindling
+tile.fireplace_stand.name=Fireplace Stand

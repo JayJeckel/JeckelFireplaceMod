@@ -1,0 +1,25 @@
+{
+	"modListVersion": 2,
+	"modList":
+	[
+		{
+			"modid": "jeckelfireplacemod",
+			"name": "JeckelFireplaceMod",
+			"description": "JeckelFireplaceMod includes a mostly decorative fireplace block and a few other related blocks and items. Requires: JeckelCoreLibrary 0.6.0-beta",
+			"version": "${version}",
+			"mcversion": "${mcversion}",
+			"forgeversion": "${forgeversion}",
+			"url": "http://minecraft.jeckelland.site88.net/mods/${name}/",
+			"updateUrl": "",
+			"authorList": ["JayJeckel"],
+			"credits": "",
+			"logoFile": "banner.png",
+			"screenshots": [],
+			"parent": "",
+			"requiredMods": [ "Forge", "jeckelcorelibrary" ],
+			"dependencies": [ "jeckelcorelibrary" ],
+			"dependants": [],
+			"useDependencyInformation": true
+		}
+	]
+}
